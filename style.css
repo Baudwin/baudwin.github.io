@@ -38,7 +38,7 @@ header {
   text-decoration: none;
 }
 .pic p:hover {
-  color: #2196F3;
+  color: #7f62dd;
 }
 .dropdown-menu img {
   height: 32px;
@@ -68,7 +68,7 @@ header {
   width: 100vw;
 }
 .dropdown-content a:hover {
-  background-color: #2196F3;
+  background-color: #7f62dd;
   color: #fff;
 }
 .show {
@@ -156,10 +156,10 @@ header {
   list-style: none;
   background-color: #E7E7E7;
   color: #656565;
-  padding: 10px 15px;
+  padding: 7px 15px;
   border-radius: 5px;
   width: fit-content;
-  border: 1px solid #2196F3;
+  border: 1px solid #7f62dd;
 }
 .skills {
   display: flex;
@@ -192,9 +192,9 @@ form {
   padding: 20px;
 }
 form input {
-  border: 1px solid #2196F3;
+  border: 1px solid #7f62dd;
   margin-bottom: 20px;
-  outline: 1px solid #2196F3;
+  outline: 1px solid #7f62dd;
   padding: 10px;
   margin-left: 15px;
   margin-right: 15px;
@@ -207,9 +207,9 @@ form label {
 form textarea {
   margin-left: 15px;
   margin-right: 15px;
-  border: 1px solid #2196F3;
+  border: 1px solid #7f62dd;
   margin-bottom: 20px;
-  outline: 1px solid #2196F3;
+  outline: 1px solid #7f62dd;
   background-color: #f5fefd;
 }
 form input[type="submit"] {
@@ -306,7 +306,7 @@ background-color: #d0cad1;
     margin: 0;
   }
   .socials-bar a:hover{
-    background-color: #2196F3;
+    background-color: #7f62dd;
     opacity: 40%;
   }
   .socials-bar {
@@ -338,7 +338,7 @@ background-color: #d0cad1;
     font-weight: 700;
   }
   .dropdown-content a:hover {
-    color: #2196F3;
+    color: #7f62dd;
     background-color: transparent;
   }
   .dropdown-btn {
@@ -406,7 +406,7 @@ background-color: #d0cad1;
   top: 0;
 }
 .back:hover {
-  color: #2196F3;
+  color: #7f62dd;
 }
 
 .my-line-height {
