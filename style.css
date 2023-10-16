@@ -118,13 +118,13 @@ header {
 .cv-btn{
   border: 2px solid #7f62dd;
   padding: 10px 20px;
-  border-radius: 25px;
+  border-radius: 10px;
 }
 .buttons{
   text-decoration: none;
   padding: 10px 20px;
   color: #fff;
-  border-radius: 25px;
+  border-radius: 10px;
   background: #7f62dd;
   box-shadow:  3px -3px 12px #7f62dd,
               -3px 3px 12px #7f62dd;
@@ -214,10 +214,10 @@ form textarea {
 }
 form input[type="submit"] {
   cursor: pointer;
-  padding: 5px 20px;
-  width: 100px;
+  padding: 5px 15px;
+  width: 90px;
   color: #fff;
-  border-radius: 25px;
+  border-radius: 10px;
     background: #7f62dd;
     box-shadow: 3px -3px 12px #7f62dd, -3px 3px 12px #f9f9fa;
 }
