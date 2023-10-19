@@ -29,6 +29,7 @@ header {
   height: 50px;
   width: 50px;
   border-radius: 50%;
+  border-color: #656565;
 }
 .pic p {
   font-weight: bold;
