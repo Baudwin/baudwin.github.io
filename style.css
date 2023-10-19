@@ -86,6 +86,8 @@ header {
 }
 .profile-pic {
   padding-top: 50px;
+  width: 100%;
+
 }
 .flex {
   display: flex;
